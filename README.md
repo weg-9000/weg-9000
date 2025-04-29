@@ -4,7 +4,7 @@
 **weg-9000/weg-9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![What Am I Listening](https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=63721873-9300-4100-beca-0d6fc878a38c)
+![What Am I Listening]https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=63721873-9300-4100-beca-0d6fc878a38c
 
 Here are some ideas to get you started:
 
