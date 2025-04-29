@@ -1,4 +1,4 @@
-## Hi there 👋
+## This mission is too important for me to allow you to jeopardize it
 
 <!--
 **weg-9000/weg-9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
