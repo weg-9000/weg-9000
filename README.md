@@ -1,5 +1,5 @@
 ## This mission is too important for me to allow you to jeopardize it
-![Listening](https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=157)
+![Listening](https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=158)
 
 <!--
 **weg-9000/weg-9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
