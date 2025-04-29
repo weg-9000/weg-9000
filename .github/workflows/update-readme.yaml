@@ -31,7 +31,7 @@ jobs:
           git commit -m "Increment SVG version to v${{ steps.increment_version.outputs.new_version }}"
 
       - name: Push Changes
-        uses: actions/checkout@v2
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.WEG9000PROFILE }}
           branch: main
