@@ -1,4 +1,13 @@
-## <img src="https://github.com/weg-9000/image/blob/main/logo.gif" alt="Example Image" width="32" height="32" style="vertical-align: low;"> This mission is too important for me to allow you to jeopardize it
+<table>
+<tr>
+<td valign="middle">
+<img src="https://github.com/weg-9000/image/blob/main/logo.gif" alt="Example Image" width="32" height="32">
+</td>
+<td valign="middle">
+This mission is too important for me to allow you to jeopardize it
+</td>
+</tr>
+</table>
 <img src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=131" width="250" align="right" />
 
 
