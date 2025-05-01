@@ -2,7 +2,7 @@
 ![Listening](https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=131)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weg-9000&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weg-9000&layout=compact&theme=white" />
 </div>
 
 
