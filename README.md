@@ -1,4 +1,4 @@
-## This mission is too important for me to allow you to jeopardize it
+## <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG](https://github.com/weg-9000/image/blob/main/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EB%8A%94%20%EB%94%94%EC%9E%90%EC%9D%B8.gif" alt="Example Image" width="32" height="32" style="vertical-align: middle;"> This mission is too important for me to allow you to jeopardize it
 ![Listening](https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=131)
 
 
