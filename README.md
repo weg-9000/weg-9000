@@ -5,7 +5,7 @@
 [![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/weg_mag)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noah.weg1456@gmail.com)
 
-## <img src="https://github.com/weg-9000/image/raw/main/logo.gif" alt="Example Image" width="32" height="32" style="vertical-align: center;"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=MAXIMUM+RESTRICTED+ENTRY)](https://git.io/typing-svg)
+## <img src="https://github.com/weg-9000/image/raw/main/logo.gif" alt="Example Image" width="32" height="32" style="vertical-align: low;"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=MAXIMUM+RESTRICTED+ENTRY)](https://git.io/typing-svg)
 
 <img src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=131" width="250" align="right" />
 
