@@ -4,9 +4,7 @@
 [![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/weg_mag)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noah.weg1456@gmail.com)
 
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=This+mission+is+too+important+for+me+to allow+you+to+jeopardize+it" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&pause=1000&color=F70202&width=435&lines=This+mission+is+too+important+for+me;to+allow+you+to+jeopardize+it)](https://git.io/typing-svg)
 
 <img src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=131" width="250" align="right" />
 
