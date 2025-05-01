@@ -1,7 +1,7 @@
-<span>
-  <img src="https://github.com/weg-9000/image/blob/main/logo.gif" alt="Example Image" width="32" height="32" style="vertical-align: middle;">
-  This mission is too important for me to allow you to jeopardize it
-</span>
+## <img src="https://github.com/weg-9000/image/raw/main/logo.gif" alt="Example Image" width="32" height="32" style="vertical-align: text-bottom;"> This mission is too important for me to allow you to jeopardize it
+
+
+<img src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=131" width="250" align="left" />
 
 
 
