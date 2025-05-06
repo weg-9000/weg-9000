@@ -7,7 +7,7 @@
 
 ## <img src="https://github.com/weg-9000/image/raw/main/logo.gif" alt="Example Image" width="64" height="64" style="vertical-align: text-top;"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=MAXIMUM+RESTRICTED+ENTRY)](https://git.io/typing-svg)
 
-<img src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=135" width="250" align="right" />
+<img src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=136" width="250" align="right" />
 
 
 
