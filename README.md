@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noah.weg1456@gmail.com)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=Multi-agent-AI-Avatar-Interview-Assistant&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=Multi-agent-AI-Avatar-Interview-Assistant&theme=white" />
 
 <img align="right" src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=138" width="250" />
 
