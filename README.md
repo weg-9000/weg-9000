@@ -9,7 +9,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=Multi-agent-AI-Avatar-Interview-Assistant&theme=white" />
 
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=146" width="250" />
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=147" width="250" />
 
 <br clear="both"/>
 
