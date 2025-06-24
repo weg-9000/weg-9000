@@ -7,15 +7,18 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noah.weg1456@gmail.com)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=agent_data_isolation&theme=white" />
 
 
 <img align="right" src="https://firebasestorage.googleapis.com/v0/b/weg-c6d13.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=546b8af8-fecc-435a-a1fc-7192368c8678&v=150" width="250" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=agent-logger&theme=white" />
+
 
 <div align="left">
+  
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=agent_data_isolation&show_owner=true&theme=default&border_radius=10.0&cache_seconds=3600">](https://github.com/weg-9000/agent_data_isolation)
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=Multi-agent-AI-Avatar-Interview-Assistant&show_owner=true&theme=nord&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/weg-9000/Multi-agent-AI-Avatar-Interview-Assistant)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=agent-logger&show_owner=true&theme=default&border_radius=10.0&cache_seconds=3600">](https://github.com/weg-9000/agent-logger)
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=Multi-agent-AI-Avatar-Interview-Assistant&theme=white&show_owner=true&theme=default&border_radius=10.0&cache_seconds=3600">](https://github.com/weg-9000/Multi-agent-AI-Avatar-Interview-Assistant)
 
 </div>
 
