@@ -18,7 +18,7 @@
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=agent-logger&show_owner=true&theme=default&border_radius=10.0&cache_seconds=3600">](https://github.com/weg-9000/agent-logger)
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=Multi-agent-AI-Avatar-Interview-Assistant&theme=white&show_owner=true&theme=default&border_radius=10.0&cache_seconds=3600">](https://github.com/weg-9000/AI-agent-Avatar-Interview-Assistant)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=AI-agent-Avatar-Interview-Assistant&theme=white&show_owner=true&theme=default&border_radius=10.0&cache_seconds=3600">](https://github.com/weg-9000/AI-agent-Avatar-Interview-Assistant)
 
 </div>
 
