@@ -19,6 +19,7 @@
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=weg-9000&repo=agent-logger&show_owner=true&theme=default&border_radius=10.0&cache_seconds=3600">](https://github.com/weg-9000/agent-logger)
 
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=final5team-odiga&repo=odiga_backend&show_owner=true&theme=default&border_radius=10.0&cache_seconds=3600">](https://github.com/final5team-odiga/odiga_backend/tree/main/backend)
 
 </div>
 
