@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
- if: false
+ if: True
   update-version:
     runs-on: ubuntu-latest
     steps:
